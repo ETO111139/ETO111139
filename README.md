@@ -1,12 +1,32 @@
-# https-github.com-ETO111139-ETO111139
-# 👋 Oi, eu sou o Bacon
+# 👋 Welcome to Bacon's Dev Corner!
 
-🎯 Faço automações, scripts e temas personalizados  
-💻 Foco em facilitar a vida com códigos simples, bonitos e práticos  
-🛠️ Projetos: Discord+, Minecraft, AutoHotkey, YouTube Shorts...
+🚀 I create scripts, automations, tools, and themes to make life easier — whether you're tweaking your Discord, automating Windows tasks, managing Minecraft servers, or producing content faster.
 
-## ⚙️ Linguagens e Ferramentas
-![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat&logo=powershell)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![KubeJS](https://img.shields.io/badge/-KubeJS-3c873a?style=flat&logo=minecraft)
+---
+
+## 🧰 Projects I Build
+
+- 🎨 **Discord Themes** — Beautiful, stylish themes for BetterDiscord and Vencord  
+- 🪄 **AutoHotkey Scripts** — Boost your productivity with smart macros  
+- 🪟 **PowerShell Tools** — Automate tasks, optimize Windows, and save time  
+- 🧱 **Minecraft Helpers** — Scripts to fix mod conflicts, start servers, and customize gameplay  
+- 🎬 **Content Automation** — From Shorts to TikToks, tools to create faster and better  
+- 🧩 **General Utilities** — Little tools that just... help
+
+---
+
+## 🔧 Technologies I Use
+
+`AutoHotkey` · `PowerShell` · `CSS` · `JavaScript` · `KubeJS` · `Batch` · `Markdown` · `GitHub Actions`
+
+---
+
+## 📫 Let's Connect
+
+- 💬 **Open to collaborations or commissions**
+- 🌐 [My Projects](https://github.com/ETO111139?tab=repositories)
+- ☕ Support me (soon)
+
+---
+
+> “Don’t automate for fun. Automate so you never waste time again.”
