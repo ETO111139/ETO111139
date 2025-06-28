@@ -50,7 +50,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ETO111139/ETO111139/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ETO111139/snk/raw/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
