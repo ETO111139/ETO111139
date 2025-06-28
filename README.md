@@ -42,6 +42,19 @@
 
 ---
 
+### 📈 GitHub Stats & Snake
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ETO111139&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETO111139&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ETO111139/ETO111139/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/ETO111139?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/ETO111139/discord-themes-bacon?style=social" alt="GitHub stars" />
@@ -50,3 +63,4 @@
 <p align="center">
   <i>Always improving. Always automating.</i>
 </p>
+
