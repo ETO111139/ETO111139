@@ -22,6 +22,12 @@ Hey there! I'm Bacon — a creator focused on developing automation tools, beaut
 
 ---
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ETO111139/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🚀 GitHub Stats
 
 <p align="center">
