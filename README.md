@@ -17,7 +17,7 @@ Hey there! I'm Bacon — a creator focused on developing automation tools, beaut
 
 | Project                                                                       | Description                                                               |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **[discord-themes-bacon](https://github.com/ETO111139/discord-themes-bacon)** | Cyberpunk-style Discord themes inspired by Silverwolf (Honkai: Star Rail) |
+| **[discord-themes-bacon](https://github.com/ETO111139/discord-themes-bacon)** | Cyberpunk-style Discord themes                                            |
 | *(More coming soon)*                                                          | Automations, productivity tools, modpack helpers                          |
 
 ---
