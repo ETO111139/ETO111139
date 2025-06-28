@@ -48,11 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ETO111139&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETO111139&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
+  
+---
 
 <p align="center">
-  
-![Snake animation](https://github.com/ETO111139/snk/raw/output/github-contribution-grid-snake.svg)
-
+  <img src="https://eto111139.github.io/snk/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
