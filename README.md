@@ -1,40 +1,52 @@
-### 👋 Hello there! I'm Bacon (ETO111139)
+---
+<h1 align="center">🎯 Discord & Automation Projects by Bacon</h1>
 
-Welcome to my GitHub! I'm focused on building **automations, tools and scripts** to make life easier — whether it's for customizing apps, optimizing workflows, or developing content.
+<p align="center">
+  <b>Automation addict | Practical scripts | Visual customization</b><br>
+  Making life easier, one line at a time.
+</p>
 
 ---
 
-### 🔧 Projects & Interests
+### 🎨 Featured Projects
 
-- 🎨 **Custom Discord Themes** — personalized `.theme.css` files for BetterDiscord and Vencord, including character-inspired UI (e.g. Silver Wolf from Honkai: Star Rail).
-- 🧩 **Automation Scripts** — PowerShell, AutoHotkey, Batch and other tools to speed up daily routines.
-- 🎮 **Minecraft Helpers** — Forge mod helpers, KubeJS scripts, server optimizations.
-- 🎥 **Content Tools** — YouTube Shorts automation, overlay scripts, and creative workflows.
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ETO111139/snk/raw/output/github-contribution-grid-snake.svg)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [DiscordPlus-Silverwolf](https://github.com/ETO111139/discord-themes-bacon) | Custom Discord+ theme inspired by Silver Wolf (Honkai: Star Rail) | CSS, UI Tweaks |
+| [devtester.com.br](https://github.com/ETO111139/devtester.com.br) | Personal test site for hosting experiments | HTML, Hosting |
+| `soon...` | More themes, utilities and automation tools incoming! | 🚧 |
 
 ---
 
-### 🗂 Repo Highlights
+### ⚙️ What I Do
 
-| Project | Description |
-|--------|-------------|
-| [`discord-themes-bacon`](https://github.com/ETO111139/discord-themes-bacon) | Custom themes for Discord+ with Silverwolf visual style and more coming soon |
-| [`devtester.com.br`](https://github.com/ETO111139/devtester.com.br) | A simple hosting test site project |
-
----
-
-### 📫 Let's Connect
-
-- Feel free to fork, star or open issues
-- More projects coming soon — stay tuned!
-
-> "Make everything around you beautiful and functional — that's automation with style."
+- 🧠 Build scripts and tools to automate daily tasks (for PC, Web, Discord...)
+- 🖌 Customize visual interfaces (themes, mods, enhancements)
+- 🛠 Combine creativity + practicality to simplify life
 
 ---
 
-**🔄 Always updating — profile and projects evolving weekly!**
+### 📌 How to Use the Discord Themes
+
+1. Install [BetterDiscord](https://betterdiscord.app) or [Vencord](https://vencord.dev)
+2. Download the `.theme.css` file from `themes/`
+3. Place it in your themes folder
+4. Enable it from the app settings
+
+---
+
+### 🧊 Credits
+
+- Base Theme: [PlusInsta - Discord+](https://github.com/PlusInsta/discord-plus)
+- Customizations by: [ETO111139 (Bacon)](https://github.com/ETO111139)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ETO111139?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ETO111139/discord-themes-bacon?style=social" alt="GitHub stars" />
+</p>
+
+<p align="center">
+  <i>Always improving. Always automating.</i>
+</p>
