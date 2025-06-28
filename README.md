@@ -1,24 +1,15 @@
-## 🎮 Discord Themes & Automations by Bacon (ETO111139)
+### 👋 Hello there! I'm Bacon (ETO111139)
 
-Hey there! I'm Bacon — a creator focused on developing automation tools, beautiful themes, and helpful scripts that make life easier (and cooler!).
-
----
-
-### 💼 What I Do
-
-* 🎨 Custom themes for Discord (BetterDiscord, Vencord)
-* 🤖 Automation scripts (PowerShell, AutoHotkey, KubeJS)
-* 🧩 Utility tools and productivity hacks
-* 🛠️ Focused on clean UI/UX and cyberpunk/neon visual vibes
+Welcome to my GitHub! I'm focused on building **automations, tools and scripts** to make life easier — whether it's for customizing apps, optimizing workflows, or developing content.
 
 ---
 
-### 🧪 Current Projects
+### 🔧 Projects & Interests
 
-| Project                                                                       | Description                                                               |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **[discord-themes-bacon](https://github.com/ETO111139/discord-themes-bacon)** | Cyberpunk-style Discord themes                                            |
-| *(More coming soon)*                                                          | Automations, productivity tools, modpack helpers                          |
+- 🎨 **Custom Discord Themes** — personalized `.theme.css` files for BetterDiscord and Vencord, including character-inspired UI (e.g. Silver Wolf from Honkai: Star Rail).
+- 🧩 **Automation Scripts** — PowerShell, AutoHotkey, Batch and other tools to speed up daily routines.
+- 🎮 **Minecraft Helpers** — Forge mod helpers, KubeJS scripts, server optimizations.
+- 🎥 **Content Tools** — YouTube Shorts automation, overlay scripts, and creative workflows.
 
 ---
 
@@ -28,33 +19,22 @@ Hey there! I'm Bacon — a creator focused on developing automation tools, beaut
 
 ---
 
-### 🚀 GitHub Stats
+### 🗂 Repo Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ETO111139&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETO111139&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ETO111139/ETO111139/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+| Project | Description |
+|--------|-------------|
+| [`discord-themes-bacon`](https://github.com/ETO111139/discord-themes-bacon) | Custom themes for Discord+ with Silverwolf visual style and more coming soon |
+| [`devtester.com.br`](https://github.com/ETO111139/devtester.com.br) | A simple hosting test site project |
 
 ---
 
-### 🧠 Fun Facts
+### 📫 Let's Connect
 
-* 🎮 I use characters and games (like Silverwolf) as creative inspiration
-* 🐧 Everything I build is tested on Windows, but some work cross-platform
-* 💜 Always improving and tweaking themes with visual identity and feeling
+- Feel free to fork, star or open issues
+- More projects coming soon — stay tuned!
+
+> "Make everything around you beautiful and functional — that's automation with style."
 
 ---
 
-### 📫 Let’s connect!
-
-Want to suggest an idea or collab on a tool? [Open an issue](https://github.com/ETO111139/discord-themes-bacon/issues) or ping me on Discord!
-
-> *"Code should be useful. But cool and beautiful? That’s my brand."*
+**🔄 Always updating — profile and projects evolving weekly!**
