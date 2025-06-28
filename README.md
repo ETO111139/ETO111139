@@ -1,32 +1,54 @@
-# 👋 Welcome to Bacon's Dev Corner!
+## 🎮 Discord Themes & Automations by Bacon (ETO111139)
 
-🚀 I create scripts, automations, tools, and themes to make life easier — whether you're tweaking your Discord, automating Windows tasks, managing Minecraft servers, or producing content faster.
-
----
-
-## 🧰 Projects I Build
-
-- 🎨 **Discord Themes** — Beautiful, stylish themes for BetterDiscord and Vencord  
-- 🪄 **AutoHotkey Scripts** — Boost your productivity with smart macros  
-- 🪟 **PowerShell Tools** — Automate tasks, optimize Windows, and save time  
-- 🧱 **Minecraft Helpers** — Scripts to fix mod conflicts, start servers, and customize gameplay  
-- 🎬 **Content Automation** — From Shorts to TikToks, tools to create faster and better  
-- 🧩 **General Utilities** — Little tools that just... help
+Hey there! I'm Bacon — a creator focused on developing automation tools, beautiful themes, and helpful scripts that make life easier (and cooler!).
 
 ---
 
-## 🔧 Technologies I Use
+### 💼 What I Do
 
-`AutoHotkey` · `PowerShell` · `CSS` · `JavaScript` · `KubeJS` · `Batch` · `Markdown` · `GitHub Actions`
-
----
-
-## 📫 Let's Connect
-
-- 💬 **Open to collaborations or commissions**
-- 🌐 [My Projects](https://github.com/ETO111139?tab=repositories)
-- ☕ Support me (soon)
+* 🎨 Custom themes for Discord (BetterDiscord, Vencord)
+* 🤖 Automation scripts (PowerShell, AutoHotkey, KubeJS)
+* 🧩 Utility tools and productivity hacks
+* 🛠️ Focused on clean UI/UX and cyberpunk/neon visual vibes
 
 ---
 
-> “Don’t automate for fun. Automate so you never waste time again.”
+### 🧪 Current Projects
+
+| Project                                                                       | Description                                                               |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **[discord-themes-bacon](https://github.com/ETO111139/discord-themes-bacon)** | Cyberpunk-style Discord themes inspired by Silverwolf (Honkai: Star Rail) |
+| *(More coming soon)*                                                          | Automations, productivity tools, modpack helpers                          |
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ETO111139&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETO111139&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ETO111139/ETO111139/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+### 🧠 Fun Facts
+
+* 🎮 I use characters and games (like Silverwolf) as creative inspiration
+* 🐧 Everything I build is tested on Windows, but some work cross-platform
+* 💜 Always improving and tweaking themes with visual identity and feeling
+
+---
+
+### 📫 Let’s connect!
+
+Want to suggest an idea or collab on a tool? [Open an issue](https://github.com/ETO111139/discord-themes-bacon/issues) or ping me on Discord!
+
+> *"Code should be useful. But cool and beautiful? That’s my brand."*
